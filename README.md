@@ -27,9 +27,9 @@ This project performs basic arithmetic operations with a user-friendly interface
 ---
 
 ## 📂 Project Structure
-- index.html
-- style.css
-- script.js
+- index.html [index.html](https://github.com/user-attachments/files/28946174/index.html)
+- style [style.css](https://github.com/user-attachments/files/28946159/style.css)
+- script.js [script.js](https://github.com/user-attachments/files/28946137/script.js)
 ---
 
 ## 💡 How It Works
@@ -46,11 +46,6 @@ This project performs basic arithmetic operations with a user-friendly interface
 1. Download or clone this repository
 2. Open `index.html` in any browser
 3. Start using the calculator
-[script.js](https://github.com/user-attachments/files/28946137/script.js) |
-[style.css](https://github.com/user-attachments/files/28946159/style.css) |
-[index.html](https://github.com/user-attachments/files/28946174/index.html)
-
-
 
 ---
 
