@@ -54,42 +54,7 @@ This project performs basic arithmetic operations with a user-friendly interface
 
 **Lovish**  
 Aspiring Full Stack Developer  
-Focused on building real-world frontend projectsfunction addValue (value) {[Uploading style.css…]()
-
-    let display = document.getElementById("display");
-    display.value += value
-}
-
-function calculate () {
-    let display = document.getElementById("display"); body {
-            text-align: center;
-            font-family: Arial;
-            margin-top: 50px;
-        }
-
-        input {
-            width: 220px;
-            height: 40px;
-            font-size: 20px;
-            text-align: right;
-            margin-bottom: 10px;
-        }
-
-        button {
-            width: 50px;
-            height: 50px;
-            font-size: 18px;
-            margin: 5px;
-            cursor: pointer;
-        }
-    display.value = eval(display.value);
-}
-
-function clearDisplay () {
-    document.getElementById("display").value = "";
-}
-
----
+Focused on building real-world frontend projects
 
 ## 📌 Future Improvements
 
